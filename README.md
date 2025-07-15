@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Titu Thomas
 
-🎓 Finance & Analytics Professional | Excel | Power BI | DCF | Python
+🎓 Finance & Analytics Professional | CMA USA | CFA Level 1 Passed
 
 Welcome to my GitHub portfolio! I use data and financial modeling to drive better business decisions.
 
