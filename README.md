@@ -2,16 +2,15 @@
 
 🎓 Finance & Analytics Professional | CMA USA | CFA Level 1 Passed
 
-Welcome to my GitHub portfolio! I use data and financial modeling to drive better business decisions.
 
 ## 🧰 Tools & Skills
 - Advanced Excel / Financial Modeling
 - Power BI Dashboards
-- DCF & Intrinsic Valuation
+- PowerPoint
 - Python
 
 ## 📊 Featured Projects
-- 📈 [Dr Lal PathLabs – DCF Valuation]
+- 📈 [Dr Lal PathLabs – DCF Valuation](https://github.com/titu-thomas/dcf-valuation)
 
 ## 📫 Connect With Me
 - LinkedIn: [linkedin.com/in/titu-thomas-cma](https://linkedin.com/in/titu-thomas-cma)
