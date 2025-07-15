@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Titu Thomas
 
-🎓 Finance & Analytics Professional | CMA USA | CFA Level 1 Passed
+🎓 Finance & Analytics Professional | CMA (USA) | CFA Level 1 Passed
 
 
 ## 🧰 Tools & Skills
