@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Titu Thomas
 
-<!--
-**titu-thomas/titu-thomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Finance & Analytics Professional | Excel | Power BI | DCF | Python
 
-Here are some ideas to get you started:
+Welcome to my GitHub portfolio! I use data and financial modeling to drive better business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tools & Skills
+- Advanced Excel / Financial Modeling
+- Power BI Dashboards
+- DCF & Intrinsic Valuation
+- Python
+
+## 📊 Featured Projects
+- 📈 [Dr Lal PathLabs – DCF Valuation]
+
+## 📫 Connect With Me
+- LinkedIn: [linkedin.com/in/titu-thomas-cma](https://linkedin.com/in/titu-thomas-cma)
+- Email: tituthomas17@gmail.com
