@@ -4,10 +4,10 @@
 
 
 ## 🧰 Tools & Skills
-- Advanced Excel / Financial Modeling
-- Power BI Dashboards
+- Financial Statement Analysis
+- Financial Modeling & DCF Valuation
+- Advanced Excel 
 - PowerPoint
-- Python
 
 ## 📊 Featured Projects
 - 📈 [Dr Lal PathLabs – DCF Valuation](https://github.com/titu-thomas/dcf-valuation)
