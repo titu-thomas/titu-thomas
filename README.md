@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Titu Thomas
 
-🎓 Accounting & Finance Professional | CMA (USA) | CFA Level 1 Passed
+🎓 Accounting & Finance Professional | CMA (USA) | CFA Level 2 Passed
 
 
 ## 🧰 Tools & Skills
@@ -10,6 +10,7 @@
 - PowerPoint
 
 ## 📊 Featured Projects
+- 🎯 [Jyothy Labs – Stock Pitch](https://github.com/titu-thomas/JLL-stock-pitch)
 - 📈 [Dr Lal PathLabs – DCF Valuation](https://github.com/titu-thomas/dcf-valuation)
 
 ## 📫 Connect With Me
